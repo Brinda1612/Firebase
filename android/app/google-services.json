@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890882409745",
+    "project_id": "ap-system-e36dc",
+    "storage_bucket": "ap-system-e36dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890882409745:android:9171cb07385577408038b0",
+        "android_client_info": {
+          "package_name": "com.mb.ap_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890882409745-duhri3ol9r7vgncclpl14oa5mmpsl4gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXx4744l9AmQp2KTQd1HZk84oEc2-OFO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890882409745-duhri3ol9r7vgncclpl14oa5mmpsl4gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
